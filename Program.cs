@@ -27,6 +27,9 @@ namespace P1_4_1204039
             } else if (menuChoice == 3)
             {
                 diagonalFunction();
+            } else
+            {
+                Console.WriteLine("Menu tidak tersedia, silakan pilih menu yang tersedia.");
             }
         }
 
